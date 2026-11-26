@@ -43,6 +43,12 @@ TradexCodez is a software company, not a broker, exchange or exchange-authorised
 - [Is MetaTrader 5 legal in India?](https://tradexcodez.com/blog/is-metatrader-5-legal-in-india/)
 - [Is algo trading legal in India? SEBI 2026 rules](https://tradexcodez.com/blog/is-algo-trading-legal-in-india/)
 - [Real-time NSE data in MT5](https://tradexcodez.com/blog/real-time-nse-data-metatrader-5/)
+- [MCX gold vs XAUUSD: is forex gold trading legal in India?](https://tradexcodez.com/blog/mcx-gold-vs-xauusd/)
+- [MCX commodity charts in MetaTrader 5](https://tradexcodez.com/blog/mcx-commodity-charts-metatrader-5/)
+- [Paper trading NSE, BSE and MCX F&O in MT5](https://tradexcodez.com/blog/paper-trading-mt5-india/)
+- [Agentic AI trading, explained](https://tradexcodez.com/blog/agentic-ai-trading-india/)
+- [What can a trading developer build? 19 real examples](https://tradexcodez.com/blog/custom-trading-software-examples/)
+- [FAQ: What is TradexCodez? MT4 vs MT5 for Indian markets](https://tradexcodez.com/faq/)
 
 **Website:** https://tradexcodez.com · **LinkedIn:** https://www.linkedin.com/company/tradexcodez · **MQL5:** https://www.mql5.com/en/users/tradexcodez · **YouTube:** https://www.youtube.com/@tradexcodez · **WhatsApp:** +91 98846 57226
 
